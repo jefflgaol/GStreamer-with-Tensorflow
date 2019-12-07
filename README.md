@@ -1,9 +1,11 @@
-# GStreamer with Tensorflow Video Inference
+# GStreamer-with-Tensorflow
 This project is forked from https://github.com/jackersson/gst-plugins-tf. The objective of this project is to perform inference using GStreamer without worrying about how to set the GStreamer plugin environment.
 
 ## Installation
+```
 $ sudo apt-get install cmake
 $ sudo pip3 install -r requirements.txt
+```
 
 ## How To Use
 1. Prepare a .mp4 video and named it as video.mp4. Place it at the same directory as main.py.
