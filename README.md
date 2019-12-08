@@ -18,9 +18,11 @@ $ sudo pip3 install -r requirements.txt
 |   |---mscoco_label_map.yml
 |   |---tf_object_api_cfg.yml
 ```
-You may try another Tensorflow model with Tensorflow Models Zoo (https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md) and labels (https://github.com/tensorflow/models/tree/master/research/object_detection/data)
-4. From the main directory, you can execute:
-$ python3 main.py
+You may try another Tensorflow model with Tensorflow Models Zoo (https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md) and labels (https://github.com/tensorflow/models/tree/master/research/object_detection/data).
 
+4. From the main directory, you can execute:
+```
+$ python3 main.py
+```
 ## Result
 ![alt text](https://github.com/jefflgaol/GStreamer-with-Tensorflow/blob/master/test.png)
