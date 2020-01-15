@@ -25,4 +25,4 @@ You may try another Tensorflow model with Tensorflow Models Zoo (https://github.
 $ python3 main.py
 ```
 ## Result
-![alt text](https://github.com/jefflgaol/GStreamer-with-Tensorflow/blob/master/test.png)
+![alt text](https://github.com/jefflgaol/GStreamer-with-Tensorflow/blob/master/test.gif)
